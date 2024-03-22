@@ -1,0 +1,8 @@
+{
+  "id": 1038,
+  "title": "Simple shell 0.3",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 0.2 +\r\n\r\n- Handle the `PATH`\r\n\r\n```\r\njulien@ubuntu:~/shell$ ./shell_0.3\r\n:) /bin/ls\r\nbarbie_j       env-main.c  exec.c  fork.c  pid.c  ppid.c    prompt   prompt.c  shell_0.3  stat\t  test_scripting.sh  wait.c\r\nenv-environ.c  exec\t   fork    mypid   ppid   printenv  promptc  shell     shell.c\t  stat.c  wait\r\n:) ls\r\nbarbie_j       env-main.c  exec.c  fork.c  pid.c  ppid.c    prompt   prompt.c  shell_0.3  stat\t  test_scripting.sh  wait.c\r\nenv-environ.c  exec\t   fork    mypid   ppid   printenv  promptc  shell     shell.c\t  stat.c  wait\r\n:) ls -l /tmp \r\ntotal 20\r\n-rw------- 1 julien julien    0 Dec  5 12:09 config-err-aAMZrR\r\ndrwx------ 3 root   root   4096 Dec  5 12:09 systemd-private-062a0eca7f2a44349733e78cb4abdff4-colord.service-V7DUzr\r\ndrwx------ 3 root   root   4096 Dec  5 12:09 systemd-private-062a0eca7f2a44349733e78cb4abdff4-rtkit-daemon.service-ANGvoV\r\ndrwx------ 3 root   root   4096 Dec  5 12:07 systemd-private-062a0eca7f2a44349733e78cb4abdff4-systemd-timesyncd.service-CdXUtH\r\n-rw-rw-r-- 1 julien julien    0 Dec  5 12:09 unity_support_test.0\r\n:) ^C\r\njulien@ubuntu:~/shell$ \r\n```"
+}

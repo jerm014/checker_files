@@ -1,0 +1,8 @@
+{
+  "id": 1042,
+  "title": "Simple shell 1.0",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 0.4 +\r\n\r\n- Implement the `env` **built-in**, that prints the current environment\r\n\r\n```\r\njulien@ubuntu:~/shell$ ./simple_shell\r\n$ env\r\nUSER=julien\r\nLANGUAGE=en_US\r\nSESSION=ubuntu\r\nCOMPIZ_CONFIG_PROFILE=ubuntu\r\nSHLVL=1\r\nHOME=/home/julien\r\nC_IS=Fun_:)\r\nDESKTOP_SESSION=ubuntu\r\nLOGNAME=julien\r\nTERM=xterm-256color\r\nPATH=/home/julien/bin:/home/julien/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin\r\nDISPLAY=:0\r\n$ exit\r\njulien@ubuntu:~/shell$ \r\n```"
+}

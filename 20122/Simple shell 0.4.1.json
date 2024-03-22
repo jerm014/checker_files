@@ -1,0 +1,8 @@
+{
+  "id": 1040,
+  "title": "Simple shell 0.4.1",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 0.4 +\r\n\r\n- handle arguments for the built-in `exit`\r\n- Usage: `exit status`, where `status` is an integer used to exit the shell\r\n\r\n```\r\njulien@ubuntu:~/shell$ ./shell_0.4.1\r\n$ exit 98\r\njulien@ubuntu:~/shell$ echo $?\r\n98\r\njulien@ubuntu:~/shell$ \r\n```\r\n"
+}

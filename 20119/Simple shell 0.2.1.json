@@ -1,0 +1,8 @@
+{
+  "id": 1037,
+  "title": "Simple shell 0.2.1",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 0.2 +\r\n\r\n- You are not allowed to use `strtok`"
+}

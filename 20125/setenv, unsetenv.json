@@ -1,0 +1,8 @@
+{
+  "id": 1043,
+  "title": "setenv, unsetenv",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 1.0 +\r\n\r\nImplement the `setenv` and `unsetenv` builtin commands\r\n\r\n- `setenv`\r\n    - Initialize a new environment variable, or modify an existing one\r\n    - Command syntax: `setenv VARIABLE VALUE`\r\n    - If the command fails or the parameters are not valid, you should print something on the standard error\r\n- `unsetenv`\r\n    - Remove an environment variable\r\n    - Command syntax: `unsetenv VARIABLE`\r\n    - If the command fails or the parameters are not valid, you should print something on the standard error\r\n"
+}
