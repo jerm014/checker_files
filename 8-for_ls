@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# comment goes here.
+for fname in *
+do
+	echo "${fname#*-}"
+done
