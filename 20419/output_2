@@ -1,0 +1,11 @@
+Value checked at index [4] = [4]
+Value checked at index [8] = [18]
+Value checked at index [12] = [61]
+Value checked at index [16] = [100]
+Value checked at index [20] = [145]
+Value checked at index [22] = [260]
+Value found between indexes [20] and [22]
+Value checked at index [20] = [145]
+Value checked at index [21] = [155]
+Value checked at index [22] = [260]
+Found at index: (nil)
