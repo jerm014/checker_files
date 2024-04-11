@@ -1,0 +1,8 @@
+{
+  "id": 1044,
+  "title": "cd",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 1.0 +\r\n\r\nImplement the builtin command `cd`:\r\n\r\n- Changes the current directory of the process.\r\n- Command syntax: `cd [DIRECTORY]`\r\n- If no argument is given to `cd` the command must be interpreted like `cd $HOME`\r\n- You have to handle the command `cd -`\r\n- You have to update the environment variable `PWD` when you change directory\r\n\r\n`man chdir`, `man getcwd`\r\n"
+}

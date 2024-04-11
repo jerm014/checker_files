@@ -1,0 +1,8 @@
+{
+  "id": 1052,
+  "title": "File as input",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 1.0 +\r\n\r\n- Usage: `simple_shell [filename]`\r\n- Your shell can take a file as a command line argument\r\n- The file contains all the commands that your shell should run before exiting\r\n- The file should contain one command per line\r\n- In this mode, the shell should not print a prompt and should not read from `stdin`"
+}

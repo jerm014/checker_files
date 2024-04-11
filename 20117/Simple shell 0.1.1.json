@@ -1,0 +1,8 @@
+{
+  "id": 1035,
+  "title": "Simple shell 0.1.1",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 0.1 +\r\n\r\n- Write your own `getline` function\r\n- Use a buffer to read many chars at once and call the least possible the `read` system call\r\n- You will need to use `static` variables\r\n- You are not allowed to use `getline`\r\n\r\nYou don't have to:\r\n\r\n- be able to move the cursor\r\n"
+}

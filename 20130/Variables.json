@@ -1,0 +1,8 @@
+{
+  "id": 1048,
+  "title": "Variables",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 1.0 +\r\n\r\n- Handle variables replacement\r\n- Handle the $? variable\r\n- Handle the $$ variable\r\n\r\n```\r\njulien@ubuntu:~/shell$ ./shell_2.0\r\n$ ls /var\r\nbackups  cache\tcrash  lib  local  lock  log  mail  metrics  opt  run  snap  spool  tmp\r\n$ echo $?\r\n0\r\n$ echo $$\r\n5104\r\n$ echo $PATH\r\n/home/julien/bin:/home/julien/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin\r\n$ exit \r\njulien@ubuntu:~/shell$ \r\n```"
+}

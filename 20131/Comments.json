@@ -1,0 +1,8 @@
+{
+  "id": 1049,
+  "title": "Comments",
+  "github_repo": "simple_shell",
+  "github_dir": "",
+  "github_file": "",
+  "body": "Simple shell 1.0 +\r\n\r\n- Handle comments (`#`)\r\n\r\n```\r\njulien@ubuntu:~/shell$ sh\r\n$ echo $$ # ls -la\r\n5114\r\n$ exit\r\njulien@ubuntu:~/shell$ \r\n```"
+}
