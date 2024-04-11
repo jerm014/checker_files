@@ -1,0 +1,46 @@
+# TODO
+
+### Tasks
+
+ - 1445 OK node
+ - 1468 OK left
+ - 1469 OK right
+ - 1470 OK delete
+ - 1471 OK is_leaf
+ - 1472 OK is_root
+ - 1473 OK pre
+ - 1474 OK in
+ - 1475 OK post
+ - 1476 OK height
+ - 1477 OK depth
+ - 1478 OK size
+ - 1479 OK leaves
+ - 1480 OK nodes
+ - 1481 OK balance_factor
+ - 1482 OK full
+ - 1483 OK perfect
+ - 1558 OK sibling
+ - 1559 OK uncle
+ - 1485 OK ancestor
+ - 1536 OK levelorder
+ - 1545 OK complete
+ - 1505 OK rleft
+ - 1506 OK rright
+ - 1552 OK is_bst
+ - 1486 OK bst_insert
+ - 1487 OK array_bst
+ - 1502 OK bst_search
+ - 1503 OK bst_remove
+ - 1504 OK BIG O BST
+ - 1553 OK is_avl
+ - 1507 OK avl_insert
+ - 1508 OK array_avl
+ - 1509 OK avl_remove
+ - 1557 OK sorted_avl
+ - 1510 OK BIG O AVL
+ - 1554 OK is_heap
+ - 1546 OK heap_insert
+ - 1547 OK array_heap
+ - 1548 OK heap_extract
+ - 1565 OK heap_sort
+ - 1549 OK BIG O HEAP
