@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# comment goes here.
+ls /root/checker_repo
