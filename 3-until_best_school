@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# comment goes here.
-i=1
-until [ $i -gt 10 ] ;
-do
-	echo "Best School"
-	i=$((i+1));
-done
