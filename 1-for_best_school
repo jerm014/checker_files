@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-# comment goes here.
-for i in {1..10}
-do 
-	echo "Best School"
-	echo $i > nul
-done
